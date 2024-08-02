@@ -11,6 +11,7 @@ Real time interactive streaming digital human， realize audio video synchronous
 5. 支持rtmp和webrtc
 6. 支持视频编排：不说话时播放自定义视频
 
+
 ## 1. Installation
 
 Tested on Ubuntu 20.04, Python3.10, Pytorch 1.12 and CUDA 11.3
